@@ -2,7 +2,7 @@
 title: Ayush Nighoskar
 date: 2023-04-02
 author: Dev Showcase admin
-desc: Learning Front-End Web Development passionate about creating interactive applications and experiences on the web.
+desc: Ayush Nighoskar is an experienced software developer with a keen interest in web development.
 img: https://api.lorem.space/image/furniture?w=500&h=500
 imgWidth: 500
 imgHeight: 500
