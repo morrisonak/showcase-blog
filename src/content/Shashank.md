@@ -3,7 +3,7 @@ title: Shashank Chaudhary
 date: 2023-04-02
 author: Dev Showcase admin
 desc: A full stack developer (prefers backend) with a passion for solving real-world problems. Love diving into complex challenges and finding elegant, efficient solutions.
-img: https://api.lorem.space/image/furniture?w=500&h=500
+img: /devpic-small.jpeg
 imgWidth: 500
 imgHeight: 500
 ---

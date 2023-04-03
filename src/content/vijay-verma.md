@@ -3,7 +3,7 @@ title: Vijay Verma
 date: 2023-04-02
 author: Dev Showcase admin
 desc: A design wizard voyaging into the metaverse. I tell the story through my design and illustrations. I spent most of my time designing for brands and making design resources and tools.
-img: https://api.lorem.space/image/house?w=500&h=500
+img: /devpic-small.jpeg
 imgWidth: 500
 imgHeight: 500
 ---

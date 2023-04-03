@@ -3,7 +3,7 @@ title: Pranshu Patel
 date: 2023-04-02
 author: Dev Showcase admin
 desc: Meet Pranshu, a talented high-school student and developer from India who specializes in creating Discord bots using discord.js and web development. 
-img: https://api.lorem.space/image/furniture?w=500&h=500
+img: /devpic-small.jpeg
 imgWidth: 500
 imgHeight: 500
 ---

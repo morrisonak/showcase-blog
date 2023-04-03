@@ -3,7 +3,7 @@ title: Sarvesh Patil
 date: 2023-04-02
 author: Dev Showcase admin
 desc: Introducing Sarvesh Patil, a Mumbai-based software engineer who is passionate about building web applications and exploring new technologies. Outside of work, Sarvesh enjoys playing football, working out, reading, and traveling. Open to new projects and collaborations, feel free to reach out to him.
-img: https://api.lorem.space/image/house?w=500&h=500
+img: /devpic-small.jpeg
 imgWidth: 500
 imgHeight: 500
 ---

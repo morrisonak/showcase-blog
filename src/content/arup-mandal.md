@@ -3,7 +3,7 @@ title: Arup Mandal
 date: 2023-04-02
 author: Dev Showcase admin
 desc: Learning Front-End Web Development passionate about creating interactive applications and experiences on the web.
-img: https://api.lorem.space/image/furniture?w=500&h=500
+img: /devpic-small.jpeg
 imgWidth: 500
 imgHeight: 500
 ---

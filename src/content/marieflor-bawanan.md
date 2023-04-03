@@ -3,7 +3,7 @@ title: Marieflor Bawanan
 date: 2023-04-02
 author: Dev Showcase admin
 desc: a frontend developer with affinity for design, intuitive user experience and pixel-perfect user interfaces.
-img: https://api.lorem.space/image/house?w=500&h=500
+img: /devpic-small.jpeg
 imgWidth: 500
 imgHeight: 500
 ---

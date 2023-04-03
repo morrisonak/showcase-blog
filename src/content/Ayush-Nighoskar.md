@@ -3,7 +3,7 @@ title: Ayush Nighoskar
 date: 2023-04-02
 author: Dev Showcase admin
 desc: Ayush Nighoskar is an experienced software developer with a keen interest in web development.
-img: https://api.lorem.space/image/furniture?w=500&h=500
+img: /devpic-small.jpeg
 imgWidth: 500
 imgHeight: 500
 ---

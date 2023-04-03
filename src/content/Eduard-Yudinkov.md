@@ -3,7 +3,7 @@ title: Eduard Yudinkov
 date: 2023-04-02
 author: Dev Showcase admin
 desc: Senior software developer focused on turning ideas into functional and delightful user experiences. I have strong experience working with complex business problems and creating unique solutions.
-img: https://api.lorem.space/image/furniture?w=800&h=500
+img: /devpic-small.jpeg
 imgWidth: 800
 imgHeight: 500
 ---

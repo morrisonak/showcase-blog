@@ -3,7 +3,7 @@ title: Joe Dean
 date: 2023-04-02
 author: Dev Showcase admin
 desc: Joe Dean is a seasoned developer who has been coding since 2010, starting with their first school laptop.  
-img: https://api.lorem.space/image/furniture?w=500&h=500
+img: /devpic-small.jpeg
 imgWidth: 500
 imgHeight: 500
 ---
